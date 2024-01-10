@@ -61,7 +61,7 @@ A sample input representing environmental conditions is utilized to predict the 
 
 ### Usage
 
-Clone the repository and execute the provided Jupyter Notebook (`Crop_Recommendation_System.ipynb`) to explore the code and experiment with different inputs.
+Clone the repository and execute the provided Jupyter Notebook (`Crop_Recommendation_System.ipynb`) to explore the code and experiment with different inputs. 
 
 Feel free to contribute or adapt the code for your specific needs!
 
